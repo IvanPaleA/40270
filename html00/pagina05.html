@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        img {
+            box-shadow: 10px 20px 20px red;
+        }
+        figure {
+            display: inline-block;
+            text-align: center;
+        }
+
+    </style>
+</head>
+<body>
+    <!-- h1>{Ramdom Pictures}(figure>img[src="https://picsum.photos/id/5/200/200"]+figcaption)x2 -->
+     <h1>Ramdom Pictures</h1>
+
+    <div id="app">
+    <!--<figure>
+        <img src="https://picsum.photos/id/1/200/200" alt="John">
+        <figcaption>John</figcaption>
+    </figure>-->
+    </div>
+
+    <script>
+        //a continuacion voy a usar el api DOM de javascript
+        console.log("imprime mensaje a la consola")
+
+        const x = document.getElementById("app")
+        console.log(x)
+
+       // x.innerHTML = imagen(1) + imagen(2)+ imagen(3)
+        //for(let i = 1; i < 10; i++) {
+        //    x.innerHTML = x.innerHTML + imagen(i)
+        //}
+
+        function imagen(id) {
+            const c = '<figure>' + 
+            '<img src="https://picsum.photos/id/'+id+'/200/200" alt="John">' +
+            '<figcaption>John</figcaption>' +
+            '</figure>' 
+            return c
+        }
+
+        //función anónima asiganada al atributo/constante picture
+        //const Picture = function (){return "Hola"};
+
+        //funcion anonima de tipo arrow funtion asignada la constante picture
+        const Picture = (id) => {
+            return `<figure>
+            <img src="https://picsum.photos/id/${id}/200/200" alt="John">
+            <figcaption>John</figcaption>
+            </figure>`
+        } ;
+
+        x.innerHTML = Picture(1) + Picture(2)+ Picture(3)
+
+
+    </script>
+</body>
+</html>
