@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ALUMNI_CATALOG>
+  <STUDENT>
+    <NAME>Andrea González Ramírez</NAME>
+    <ID>20230001</ID>
+    <AGE>24</AGE>
+    <MAJOR>Medicina</MAJOR>
+    <YEAR>5</YEAR>
+    <EMAIL>andrea.gonzalez.ramirez@universidad.edu.mx</EMAIL>
+    <PHONE>555-884-8448</PHONE>
+    <ENROLLMENT_DATE>2020-02-01</ENROLLMENT_DATE>
+  </STUDENT>
+  <STUDENT>
+    <NAME>Daniela Martínez Ramírez</NAME>
+    <ID>20230002</ID>
+    <AGE>21</AGE>
+    <MAJOR>Diseño Gráfico</MAJOR>
+    <YEAR>3</YEAR>
+    <EMAIL>daniela.martinez.ramirez@universidad.edu.mx</EMAIL>
+    <PHONE>555-189-1363</PHONE>
+    <ENROLLMENT_DATE>2021-12-25</ENROLLMENT_DATE>
+  </STUDENT>
+  <STUDENT>
+    <NAME>Hugo Ramírez Ramírez</NAME>
+    <ID>20230003</ID>
+    <AGE>21</AGE>
+    <MAJOR>Diseño Gráfico</MAJOR>
+    <YEAR>4</YEAR>
+    <EMAIL>hugo.ramirez.ramirez@universidad.edu.mx</EMAIL>
+    <PHONE>555-383-7447</PHONE>
+    <ENROLLMENT_DATE>2023-03-25</ENROLLMENT_DATE>
+  </STUDENT>
+  <STUDENT>
+    <NAME>José Torres Hernández</NAME>
+    <ID>20230004</ID>
+    <AGE>19</AGE>
+    <MAJOR>Medicina</MAJOR>
+    <YEAR>3</YEAR>
+    <EMAIL>jose.torres.hernandez@universidad.edu.mx</EMAIL>
+    <PHONE>555-381-4891</PHONE>
+    <ENROLLMENT_DATE>2021-11-27</ENROLLMENT_DATE>
+  </STUDENT>
+  <STUDENT>
+    <NAME>Andrea Hernández Hernández</NAME>
+    <ID>20230005</ID>
+    <AGE>21</AGE>
+    <MAJOR>Comunicación</MAJOR>
+    <YEAR>5</YEAR>
+    <EMAIL>andrea.hernandez.hernandez@universidad.edu.mx</EMAIL>
+    <PHONE>555-886-5012</PHONE>
+    <ENROLLMENT_DATE>2021-08-27</ENROLLMENT_DATE>
+  </STUDENT>
+  <STUDENT>
+    <NAME>Hugo López Ramírez</NAME>
+    <ID>20230006</ID>
+    <AGE>19</AGE>
+    <MAJOR>Ingeniería en Sistemas</MAJOR>
+    <YEAR>1</YEAR>
+    <EMAIL>hugo.lopez.ramirez@universidad.edu.mx</EMAIL>
+    <PHONE>555-781-4947</PHONE>
+    <ENROLLMENT_DATE>2021-06-15</ENROLLMENT_DATE>
+  </STUDENT>
+  <STUDENT>
+    <NAME>Daniela Martínez Ramírez</NAME>
+    <ID>20230007</ID>
+    <AGE>20</AGE>
+    <MAJOR>Psicología</MAJOR>
+    <YEAR>4</YEAR>
+    <EMAIL>daniela.martinez.ramirez@universidad.edu.mx</EMAIL>
+    <PHONE>555-366-3131</PHONE>
+    <ENROLLMENT_DATE>2020-07-21</ENROLLMENT_DATE>
+  </STUDENT>
+  <STUDENT>
+    <NAME>Carlos González Hernández</NAME>
+    <ID>20230008</ID>
+    <AGE>24</AGE>
+    <MAJOR>Psicología</MAJOR>
+    <YEAR>3</YEAR>
+    <EMAIL>carlos.gonzalez.hernandez@universidad.edu.mx</EMAIL>
+    <PHONE>555-183-2444</PHONE>
+    <ENROLLMENT_DATE>2022-12-06</ENROLLMENT_DATE>
+  </STUDENT>
+  <STUDENT>
+    <NAME>Raúl Pérez Ramírez</NAME>
+    <ID>20230009</ID>
+    <AGE>23</AGE>
+    <MAJOR>Psicología</MAJOR>
+    <YEAR>3</YEAR>
+    <EMAIL>raul.perez.ramirez@universidad.edu.mx</EMAIL>
+    <PHONE>555-391-1479</PHONE>
+    <ENROLLMENT_DATE>2022-06-24</ENROLLMENT_DATE>
+  </STUDENT>
+  <STUDENT>
+    <NAME>Valeria Salinas Martínez</NAME>
+    <ID>20230010</ID>
+    <AGE>24</AGE>
+    <MAJOR>Medicina</MAJOR>
+    <YEAR>4</YEAR>
+    <EMAIL>valeria.salinas.martinez@universidad.edu.mx</EMAIL>
+    <PHONE>555-295-4375</PHONE>
+    <ENROLLMENT_DATE>2023-10-01</ENROLLMENT_DATE>
+  </STUDENT>
+</ALUMNI_CATALOG>
