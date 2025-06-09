@@ -4,3 +4,6 @@
 [submodule "40270"]
 	path = 40270
 	url = https://github.com/IvanPaleA/40270.git
+[submodule "ordinario-ftw"]
+	path = ordinario-ftw
+	url = https://github.com/IvanPaleA/ordinario-ftw.git
